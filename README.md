@@ -4,7 +4,7 @@
  
  
  
-## This is my old project on the topic of school management, relying on a combination of **Java** and **MS SQL Server** to create a school management system application.
+## This is my old project on the topic of school management system, relying on a combination of **Java** and **MS SQL Server** to create a school management system application.
 
 1. As for **SQL Server**, it is pure structured query language: consists of many tables, each of which consists of a primary key and foreign keys, bound together. Retrieve data using SQL statements.
 
