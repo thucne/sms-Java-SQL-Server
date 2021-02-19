@@ -1,4 +1,4 @@
-# Welcome to the School Management System! [Language](https://img.shields.io/badge/-Java-007396?logo=java) ![Language](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server)
+# Welcome to the School Management System! ![Language](https://img.shields.io/badge/-Java-007396?logo=java) ![Language](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server)
  
 ## Languagues: Java (via IntelliJ IDEA) and SQL (via Microsoft SQL Server)
  
